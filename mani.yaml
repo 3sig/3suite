@@ -1,0 +1,41 @@
+projects:
+  3lib-config:
+    url: git@github.com:3sig/3lib-config.git
+  
+  3lib-orchestrator:
+    url: git@github.com:3sig/3lib-orchestrator.git
+  
+  3suite-asset-cache:
+    url: https://github.com/3sig/3suite-asset-cache.git
+  
+  3suite-browser:
+    url: git@github.com:3sig/3suite-browser.git
+  
+  3suite-http-server:
+    url: https://github.com/3sig/3suite-http-server.git
+  
+  3suite-maestro:
+    url: https://github.com/3sig/3suite-maestro.git
+  
+  3suite-mock-server:
+    url: https://github.com/3sig/3suite-mock-server.git
+  
+  3suite-network-multiplexer:
+    url: https://github.com/3sig/3suite-network-multiplexer.git
+  
+  3suite-orchestrator:
+    url: git@github.com:3sig/3suite-orchestrator.git
+  
+  3suite-orchestrator-project-template:
+    url: git@github.com:3sig/3suite-orchestrator-project-template.git
+  
+  3suite-socketio:
+    url: https://github.com/3sig/3suite-socketio.git
+  
+  3suite-template:
+    url: git@github.com:3sig/3suite-template.git
+  
+tasks:
+  status:
+    desc: Check git status across all repositories
+    cmd: git status

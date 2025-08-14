@@ -1,0 +1,29 @@
+# IDE and editor files #
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# mani #
+3suite-template
+3suite-socketio
+3suite-orchestrator-project-template
+3suite-orchestrator
+3suite-network-multiplexer
+3suite-mock-server
+3suite-maestro
+3suite-http-server
+3suite-browser
+3suite-asset-cache
+3lib-orchestrator
+3lib-config
+# mani #
