@@ -54,3 +54,7 @@ tasks:
   status:
     desc: Check git status across all repositories
     cmd: git status
+
+  workflow-status:
+    desc: Check status of most recent workflow run
+    cmd: gh run list --limit 1
