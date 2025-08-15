@@ -54,7 +54,19 @@ tasks:
   status:
     desc: Check git status across all repositories
     cmd: git status
+    spec: custom
+    target: all
 
   workflow-status:
     desc: Check status of most recent workflow run
     cmd: gh run list --limit 1
+
+
+specs:
+  custom:
+    output: table
+    parallel: true
+
+targets:
+  all:
+    all: true
