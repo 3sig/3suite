@@ -1,40 +1,55 @@
 projects:
   3lib-config:
     url: git@github.com:3sig/3lib-config.git
-  
+    tags: [lib]
+
   3lib-orchestrator:
     url: git@github.com:3sig/3lib-orchestrator.git
-  
+    tags: [lib]
+
   3suite-asset-cache:
     url: git@github.com:3sig/3suite-asset-cache.git
-  
+    tags: [template, template-derived]
+
   3suite-browser:
     url: git@github.com:3sig/3suite-browser.git
-  
+    tags: [template, template-derived, npm]
+
   3suite-http-server:
     url: git@github.com:3sig/3suite-http-server.git
-  
+    tags: [template, template-derived]
+
   3suite-maestro:
     url: git@github.com:3sig/3suite-maestro.git
-  
+    tags: [template, template-derived]
+
   3suite-mock-server:
     url: git@github.com:3sig/3suite-mock-server.git
-  
+    tags: [template, template-derived]
+
   3suite-network-multiplexer:
     url: git@github.com:3sig/3suite-network-multiplexer.git
-  
+    tags: [template, template-derived]
+
   3suite-orchestrator:
     url: git@github.com:3sig/3suite-orchestrator.git
-  
+    tags: [template, template-derived]
+
   3suite-orchestrator-project-template:
     url: git@github.com:3sig/3suite-orchestrator-project-template.git
-  
+
   3suite-socketio:
     url: git@github.com:3sig/3suite-socketio.git
-  
+    tags: [template, template-derived]
+
   3suite-template:
     url: git@github.com:3sig/3suite-template.git
-  
+    tags: [template]
+
+  test-3suite-template:
+    url: git@github.com:3sig/test-3suite-template.git
+    tags: [template, template-derived]
+
 tasks:
   status:
     desc: Check git status across all repositories
