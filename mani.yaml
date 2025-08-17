@@ -15,6 +15,10 @@ projects:
     url: git@github.com:3sig/3suite-browser.git
     tags: [template, template-derived, npm]
 
+  3suite-db:
+    url: git@github.com:3sig/3suite-db.git
+    tags: [template, template-derived]
+
   3suite-http-server:
     url: git@github.com:3sig/3suite-http-server.git
     tags: [template, template-derived]

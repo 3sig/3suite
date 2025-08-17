@@ -23,6 +23,7 @@ test-3suite-template
 3suite-mock-server
 3suite-maestro
 3suite-http-server
+3suite-db
 3suite-browser
 3suite-asset-cache
 3lib-orchestrator
