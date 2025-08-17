@@ -1,56 +1,70 @@
 projects:
   3lib-config:
+    path: 3lib/3lib-config
     url: git@github.com:3sig/3lib-config.git
     tags: [lib]
 
   3lib-orchestrator:
+    path: 3lib/3lib-orchestrator
     url: git@github.com:3sig/3lib-orchestrator.git
     tags: [lib]
 
   3suite-asset-cache:
+    path: 3suite/3suite-asset-cache
     url: git@github.com:3sig/3suite-asset-cache.git
     tags: [template, template-derived]
 
   3suite-browser:
+    path: 3suite/3suite-browser
     url: git@github.com:3sig/3suite-browser.git
     tags: [template, template-derived, npm]
 
   3suite-db:
+    path: 3suite/3suite-db
     url: git@github.com:3sig/3suite-db.git
     tags: [template, template-derived]
 
   3suite-http-server:
+    path: 3suite/3suite-http-server
     url: git@github.com:3sig/3suite-http-server.git
     tags: [template, template-derived]
 
   3suite-maestro:
+    path: 3suite/3suite-maestro
     url: git@github.com:3sig/3suite-maestro.git
     tags: [template, template-derived]
 
   3suite-mock-server:
+    path: 3suite/3suite-mock-server
     url: git@github.com:3sig/3suite-mock-server.git
     tags: [template, template-derived]
 
   3suite-network-multiplexer:
+    path: 3suite/3suite-network-multiplexer
     url: git@github.com:3sig/3suite-network-multiplexer.git
     tags: [template, template-derived]
 
   3suite-orchestrator:
+    path: 3suite/3suite-orchestrator
     url: git@github.com:3sig/3suite-orchestrator.git
     tags: [template, template-derived]
 
   3suite-orchestrator-project-template:
+    path: templates/3suite-orchestrator-project-template
     url: git@github.com:3sig/3suite-orchestrator-project-template.git
 
   3suite-socketio:
+    path: 3suite/3suite-socketio
     url: git@github.com:3sig/3suite-socketio.git
     tags: [template, template-derived]
 
   3suite-template:
+    path: templates/3suite-template
     url: git@github.com:3sig/3suite-template.git
     tags: [template]
 
   test-3suite-template:
+    path: templates/test-3suite-template
     url: git@github.com:3sig/test-3suite-template.git
     tags: [template, template-derived]
 
