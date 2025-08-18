@@ -9,6 +9,11 @@ projects:
     url: git@github.com:3sig/3lib-orchestrator.git
     tags: [lib]
 
+  3db-socketio:
+    path: 3db/3db-socketio
+    url: git@github.com:3sig/3db-socketio.git
+    tags: [3db-template-derived]
+
   3suite-asset-cache:
     path: 3suite/3suite-asset-cache
     url: git@github.com:3sig/3suite-asset-cache.git
@@ -49,14 +54,20 @@ projects:
     url: git@github.com:3sig/3suite-orchestrator.git
     tags: [template, template-derived]
 
-  3suite-orchestrator-project-template:
-    path: templates/3suite-orchestrator-project-template
-    url: git@github.com:3sig/3suite-orchestrator-project-template.git
-
   3suite-socketio:
     path: 3suite/3suite-socketio
     url: git@github.com:3sig/3suite-socketio.git
     tags: [template, template-derived]
+
+  3suite-orchestrator-project-template:
+    path: templates/3suite-orchestrator-project-template
+    url: git@github.com:3sig/3suite-orchestrator-project-template.git
+    tags: [orch-template]
+
+  3db-template:
+    path: templates/3db-template
+    url: git@github.com:3sig/3db-template.git
+    tags: [3db-template, orch-template-derived]
 
   3suite-template:
     path: templates/3suite-template

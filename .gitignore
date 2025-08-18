@@ -16,8 +16,9 @@ ehthumbs.db
 # mani #
 templates/test-3suite-template
 templates/3suite-template
-3suite/3suite-socketio
+templates/3db-template
 templates/3suite-orchestrator-project-template
+3suite/3suite-socketio
 3suite/3suite-orchestrator
 3suite/3suite-network-multiplexer
 3suite/3suite-mock-server
@@ -26,6 +27,7 @@ templates/3suite-orchestrator-project-template
 3suite/3suite-db
 3suite/3suite-browser
 3suite/3suite-asset-cache
+3db/3db-socketio
 3lib/3lib-orchestrator
 3lib/3lib-config
 # mani #
