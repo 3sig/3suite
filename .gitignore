@@ -14,6 +14,7 @@
 ehthumbs.db
 
 # mani #
+templates/test-3db-template
 templates/test-3suite-template
 templates/3suite-template
 templates/3db-template
@@ -27,6 +28,7 @@ templates/3suite-orchestrator-project-template
 3suite/3suite-db
 3suite/3suite-browser
 3suite/3suite-asset-cache
+3db/3db-rivet
 3db/3db-socketio
 3lib/3lib-orchestrator
 3lib/3lib-config
