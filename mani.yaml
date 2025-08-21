@@ -29,6 +29,11 @@ projects:
     url: git@github.com:3sig/3suite-browser.git
     tags: [template, template-derived, npm]
 
+  3suite-comfy-pack:
+    path: 3suite/3suite-comfy-pack
+    url: git@github.com:3sig/3suite-comfy-pack.git
+    tags: [template, template-derived]
+
   3suite-db:
     path: 3suite/3suite-db
     url: git@github.com:3sig/3suite-db.git
