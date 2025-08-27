@@ -14,6 +14,11 @@ projects:
     url: git@github.com:3sig/3db-socketio.git
     tags: [3db-template-derived]
 
+  3db-websockets:
+    path: 3db/3db-websockets
+    url: git@github.com:3sig/3db-websockets.git
+    tags: [3db-template-derived]
+
   3db-rivet:
     path: 3db/3db-rivet
     url: git@github.com:3sig/3db-rivet.git
@@ -67,6 +72,11 @@ projects:
   3suite-socketio:
     path: 3suite/3suite-socketio
     url: git@github.com:3sig/3suite-socketio.git
+    tags: [template, template-derived]
+
+  3suite-websockets:
+    path: 3suite/3suite-websockets
+    url: git@github.com:3sig/3suite-websockets.git
     tags: [template, template-derived]
 
   3suite-orchestrator-project-template:
