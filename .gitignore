@@ -26,6 +26,7 @@ templates/3suite-orchestrator-project-template
 3suite/3suite-mock-server
 3suite/3suite-maestro
 3suite/3suite-http-server
+3suite/3suite-db-fe
 3suite/3suite-db
 3suite/3suite-comfy-pack
 3suite/3suite-browser

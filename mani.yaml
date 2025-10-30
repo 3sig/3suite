@@ -44,6 +44,11 @@ projects:
     url: git@github.com:3sig/3suite-db.git
     tags: [template, template-derived]
 
+  3suite-db-fe:
+    path: 3suite/3suite-db-fe
+    url: git@github.com:3sig/3suite-db-fe.git
+    tags: []
+
   3suite-http-server:
     path: 3suite/3suite-http-server
     url: git@github.com:3sig/3suite-http-server.git
